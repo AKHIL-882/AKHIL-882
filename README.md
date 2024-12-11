@@ -1,8 +1,15 @@
 
-- 👋 Hi, I'm @AKHIL Duggirala, a passionate technologist with expertise in Web Development (FrontEnd Developer) for over 2 years and Machine Learning and Data Science for over a year. 
-- 💡 Currently, I'm delving into Full Stack Web Development and exploring advanced concepts in ML. 
-- 💡 Fascinated by the world of Open Source, I'm eagerly seeking collaborations on research-focused projects. 
-- 🌱 Let's connect and innovate together! Reach out to me at 😎 https://www.linkedin.com/in/duggirala-akhil-151768187/.
+👋 Hi, I'm Akhil Duggirala, a passionate technologist with:
+
+Over 2 years of experience as a Frontend Developer in Web Development.
+1+ year of expertise in Machine Learning and Data Science.
+💡 Currently, I'm:
+
+Expanding my skillset in Full Stack Web Development.
+Exploring advanced concepts in Machine Learning.
+🌟 Open Source Enthusiast: I'm always excited to collaborate on research-focused projects. Let's create something innovative together!
+
+📬 Let's Connect: 😎 https://www.linkedin.com/in/duggirala-akhil-151768187/.
 
 <!---
 AKHIL-882/AKHIL-882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
