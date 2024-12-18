@@ -5,6 +5,7 @@
 My professional background includes proficiency in React.js, Laravel, C, Java, Python, Git, and MySQL. Additionally, I have two research publications to my credit, reflecting my commitment to academic excellence and innovative thinking.
 
 📃 Link1:https://ijsrd.com/Article.php?manuscript=IJSRDV8I80146
+
 📃 Link2: https://www.ijraset.com/research-paper/php-laravel-a-focus-on-customization-and-schedule-job-management
 
 🌟 Open Source Contributor/Enthusiast: Laravel
