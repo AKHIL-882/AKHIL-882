@@ -9,14 +9,19 @@ My professional background includes proficiency in React.js, Laravel, C, Java, P
 📃 Link2: https://www.ijraset.com/research-paper/php-laravel-a-focus-on-customization-and-schedule-job-management
 
 🌟 Open Source Contributor/Enthusiast: Laravel
+
 🔗 https://github.com/spatie/laravel-schedule-monitor/pull/97
 
 I'm always excited to collaborate on research-focused projects. 
+
 Let's create something innovative together!
 
 Follow on
+
 ▶  Youtube: https://www.youtube.com/channel/UCUKsFzZ0pO512-Vf1odeMSw/
+
 👩‍🏫 Linkedin: https://in.linkedin.com/in/duggirala-akhil-151768187
+
 🎴 Instagram: https://www.instagram.com/btechcareerguide/
 
 
