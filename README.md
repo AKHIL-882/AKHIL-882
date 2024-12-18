@@ -1,17 +1,23 @@
 
 👋 Hi, I'm Akhil Duggirala, a passionate technologist with:
 
-Over 2 years of experience as a Frontend Developer in Web Development.
-1+ year of expertise in Machine Learning and Data Science.
+2.5+ years of experience specializing in Full Stack Development. 
+My professional background includes proficiency in React.js, Laravel, C, Java, Python, Git, and MySQL. Additionally, I have two research publications to my credit, reflecting my commitment to academic excellence and innovative thinking.
 
-💡 Currently, I'm:
+📃 Link1:https://ijsrd.com/Article.php?manuscript=IJSRDV8I80146
+📃 Link2: https://www.ijraset.com/research-paper/php-laravel-a-focus-on-customization-and-schedule-job-management
 
-Expanding my skillset in Full Stack Web Development.
-Exploring advanced concepts in Machine Learning.
+🌟 Open Source Contributor/Enthusiast: Laravel
+🔗 https://github.com/spatie/laravel-schedule-monitor/pull/97
 
-🌟 Open Source Enthusiast: I'm always excited to collaborate on research-focused projects. Let's create something innovative together!
+I'm always excited to collaborate on research-focused projects. 
+Let's create something innovative together!
 
-📬 Let's Connect: 😎 https://www.linkedin.com/in/duggirala-akhil-151768187/.
+Follow on
+▶  Youtube: https://www.youtube.com/channel/UCUKsFzZ0pO512-Vf1odeMSw/
+👩‍🏫 Linkedin: https://in.linkedin.com/in/duggirala-akhil-151768187
+🎴 Instagram: https://www.instagram.com/btechcareerguide/
+
 
 <!---
 AKHIL-882/AKHIL-882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
