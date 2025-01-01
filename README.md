@@ -1,7 +1,7 @@
 
 👋 Hi, I'm Akhil Duggirala, a passionate technologist with:
 
-2.5+ years of experience specializing in Full Stack Development. 
+3+ years of experience specializing in Full Stack Development. 
 My professional background includes proficiency in React.js, Laravel, C, Java, Python, Git, and MySQL. Additionally, I have two research publications to my credit, reflecting my commitment to academic excellence and innovative thinking.
 
 📃 Link1:https://ijsrd.com/Article.php?manuscript=IJSRDV8I80146
